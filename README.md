@@ -36,3 +36,10 @@ ___**This project is developed as a university requirement for the course CCDATR
 
 ### ORDER PAGE
 ![Checkout Screenshot](ROMS/screenshots/SSchick2.png)
+
+## 🧑‍💻 Team Members
+- **[Aisha](https://github.com/AishBon)** - Designer
+- **[Aki](https://github.com/private-staticvoid)** - Programmer
+<br>
+
+> NOTE: ROMS restaurant chicken is a school project developed purely for educational purposes. All code, designs, and features were built for learning and demonstration.
