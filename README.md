@@ -32,7 +32,7 @@ ___**This project is developed as a university requirement for the course CCDATR
 ## 📸 Sample Screenshots
 
 ### HOME PAGE
-![Menu Screenshot](screenshots/SSchick1.png)
+![Menu Screenshot](ROMS/screenshots/SSchick1.png)
 
 ### ORDER PAGE
-![Checkout Screenshot](screenshots/SSchick2.png)
+![Checkout Screenshot](ROMS/screenshots/SSchick2.png)
