@@ -29,3 +29,10 @@ ___**This project is developed as a university requirement for the course CCDATR
 5. Order is saved into the database for restaurant tracking.  
 
 ---
+## 📸 Sample Screenshots
+
+### HOME PAGE
+![Menu Screenshot](screenshots/SSchick1.png)
+
+### ORDER PAGE
+![Checkout Screenshot](screenshots/SSchick2.png)
