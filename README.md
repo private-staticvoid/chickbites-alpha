@@ -1,6 +1,6 @@
-# 🍗📦 ROMS: Restaurant Ordering Management System (Chicken Restaurant System)
+# 🍗📦 ChickBites Alpha - ROMS: Restaurant Ordering Management System (Chicken Restaurant System)
 
-ROMS is a **Java-based restaurant ordering management system** designed for ChickBites, a chicken restaurant.  
+ChickBites Alpha is a Java-based restaurant ordering management system** designed for ChickBites, a chicken restaurant.  
 The system allows customers to browse the menu, place orders, and process checkout, while the backend manages menu items, combos, and orders efficiently.  
 
 ___**This project is developed as a university requirement for the course CCDATRCL: Data Structures and Algorithms.**___
